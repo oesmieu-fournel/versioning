@@ -11,15 +11,9 @@
         <link>https://www.ecosystem.eco/reparer/</link>
         <sparkle:version>2.0.1</sparkle:version>
         <description>
-          <![CDATA[
-            <ul>
-              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-              <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
-              <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
-              <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
-            </ul>
-          ]]>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </description>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosystem.mobile.reparation.dev" sparkle:version="2.0.1" sparkle:os="android" />
         <pubDate>Sat, 26 Dec 2024 15:20:11 +0000</pubDate>
       </item>
   </channel>
