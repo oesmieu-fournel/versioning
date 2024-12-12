@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Reparation App cast test</title>
+    <link>https://www.ecosystem.eco/reparer/</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>fr</language>
+      <item>
+        <title>Version 2.0.1</title>
+        <link>https://www.ecosystem.eco/reparer/</link>
+        <sparkle:version>2.0.1</sparkle:version>
+        <description>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </description>
+        <enclosure url="https://apps.apple.com/fr/app/portail-r%C3%A9parateurs-qualir%C3%A9par/id6474127496v" sparkle:version="2.0.1" sparkle:os="android" />
+        <pubDate>Sat, 26 Dec 2024 15:20:11 +0000</pubDate>
+      </item>
+  </channel>
+</rss>
