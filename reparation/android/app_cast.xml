@@ -14,6 +14,7 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </description>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosystem.mobile.reparation.dev" sparkle:version="2.0.1" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosystem.mobile.reparation.dev" sparkle:version="2.0.1" sparkle:os="iOS" />
         <pubDate>Sat, 26 Dec 2024 15:20:11 +0000</pubDate>
       </item>
   </channel>
