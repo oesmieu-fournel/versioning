@@ -1,7 +1,8 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Reparation App cast test</title>
+    <title>Ecosystem - Application mobile - Quali' Répar</title>
     <link>https://www.ecosystem.eco/reparer/</link>
     <description>Most recent changes with links to updates.</description>
     <language>fr</language>
@@ -10,10 +11,13 @@
         <link>https://www.ecosystem.eco/reparer/</link>
         <sparkle:version>2.0.2</sparkle:version>
         <description>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        #26547-Mise à jour des CGU
+        #26340-Simplifier l'accès aux nouvelles versions de l'application Réparation
+        #27300-Mise à jour de flutter pour maintenir l'application performante et sécurisée.
+        #25774 - créer le même système de notification ( pop up de news ) comme l'applications Chauffeurs"
         </description>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosystem.mobile.reparation.dev" sparkle:version="2.0.2" sparkle:os="android" />
-        <pubDate>Sat, 26 Dec 2024 15:20:11 +0000</pubDate>
+        <pubDate>Sat, 30 Jan 2025 15:20:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
