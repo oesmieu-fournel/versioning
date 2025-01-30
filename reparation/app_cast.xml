@@ -6,14 +6,13 @@
     <description>Most recent changes with links to updates.</description>
     <language>fr</language>
       <item>
-        <title>Version 2.0.1</title>
+        <title>Version 2.0.2</title>
         <link>https://www.ecosystem.eco/reparer/</link>
-        <sparkle:version>2.0.1</sparkle:version>
+        <sparkle:version>2.0.2</sparkle:version>
         <description>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </description>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosystem.mobile.reparation.dev" sparkle:version="2.0.1" sparkle:os="android" />
-        <enclosure url="https://apps.apple.com/fr/app/portail-r%C3%A9parateurs-qualir%C3%A9par/id6474127496v" sparkle:version="2.0.1" sparkle:os="iOS" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosystem.mobile.reparation.dev" sparkle:version="2.0.2" sparkle:os="android" />
         <pubDate>Sat, 26 Dec 2024 15:20:11 +0000</pubDate>
       </item>
   </channel>
